@@ -1,0 +1,43 @@
+.block {
+    max-width: 100%;
+    height: min-content;
+    width: 700px;
+    margin: 10px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    display: flex;
+    align-items: stretch;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.block:hover{
+    border: 2px solid gray;
+}
+
+.block img {
+    width: 200px;
+    border-radius: 3px;
+    margin: 10px;
+}
+
+.specifications {
+    margin: 0 10px;
+    width: 50%;
+}
+
+.specifications h1 {
+    margin: 0;
+}
+
+.specifications p {
+    margin: 0;
+}
+
+.prices {
+width: 50%;
+
+}
+
+.prices h1 {
+    white-space: nowrap;
+}
