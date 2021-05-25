@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/CarSeller-React/static/css/main.95c64c6d.chunk.css",
+    "main.js": "/CarSeller-React/static/js/main.dd60a8f4.chunk.js",
+    "main.js.map": "/CarSeller-React/static/js/main.dd60a8f4.chunk.js.map",
+    "runtime-main.js": "/CarSeller-React/static/js/runtime-main.c5252a2f.js",
+    "runtime-main.js.map": "/CarSeller-React/static/js/runtime-main.c5252a2f.js.map",
+    "static/css/2.00bb4513.chunk.css": "/CarSeller-React/static/css/2.00bb4513.chunk.css",
+    "static/js/2.88600cd6.chunk.js": "/CarSeller-React/static/js/2.88600cd6.chunk.js",
+    "static/js/2.88600cd6.chunk.js.map": "/CarSeller-React/static/js/2.88600cd6.chunk.js.map",
+    "index.html": "/CarSeller-React/index.html",
+    "static/css/2.00bb4513.chunk.css.map": "/CarSeller-React/static/css/2.00bb4513.chunk.css.map",
+    "static/css/main.95c64c6d.chunk.css.map": "/CarSeller-React/static/css/main.95c64c6d.chunk.css.map",
+    "static/js/2.88600cd6.chunk.js.LICENSE.txt": "/CarSeller-React/static/js/2.88600cd6.chunk.js.LICENSE.txt",
+    "static/media/aventodor.ef5f7f0d.jpg": "/CarSeller-React/static/media/aventodor.ef5f7f0d.jpg",
+    "static/media/bmwm8cabrio.feb8206f.jpg": "/CarSeller-React/static/media/bmwm8cabrio.feb8206f.jpg",
+    "static/media/bmwx6.5a7b003a.jpg": "/CarSeller-React/static/media/bmwx6.5a7b003a.jpg",
+    "static/media/ford.fc795c9c.jpg": "/CarSeller-React/static/media/ford.fc795c9c.jpg",
+    "static/media/ladalargus.db42a6e1.jpg": "/CarSeller-React/static/media/ladalargus.db42a6e1.jpg",
+    "static/media/mersc200.1b3c6172.jpg": "/CarSeller-React/static/media/mersc200.1b3c6172.jpg",
+    "static/media/mresGLS.c3f65f33.jpg": "/CarSeller-React/static/media/mresGLS.c3f65f33.jpg",
+    "static/media/priui.a3138302.jpg": "/CarSeller-React/static/media/priui.a3138302.jpg",
+    "static/media/teslamodel.5f6ec199.jpg": "/CarSeller-React/static/media/teslamodel.5f6ec199.jpg",
+    "static/media/teslamodel3.c789b4dc.jpg": "/CarSeller-React/static/media/teslamodel3.c789b4dc.jpg",
+    "static/media/vwt1.cd3c84f9.jpg": "/CarSeller-React/static/media/vwt1.cd3c84f9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5252a2f.js",
+    "static/css/2.00bb4513.chunk.css",
+    "static/js/2.88600cd6.chunk.js",
+    "static/css/main.95c64c6d.chunk.css",
+    "static/js/main.dd60a8f4.chunk.js"
+  ]
+}
